@@ -1,0 +1,18 @@
+# Required Python packages for PyEPFA
+
+# Core packages
+python==3.x
+
+# AI and Machine Learning packages
+numpy==1.21.2
+scikit-learn==0.24.2
+tensorflow==2.6.0
+
+# File and Directory Management packages
+pathlib==1.0.1
+
+# Version Control Integration packages
+GitPython==3.1.18
+
+# Documentation Generation packages
+sphinx==4.1.2
